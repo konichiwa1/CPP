@@ -4,6 +4,8 @@
 #define INF INT32_MAX
 #define INFL INT64_MAX
 
+using namespace std;
+
 void solve()    {
     int n;
     cin >> n;
